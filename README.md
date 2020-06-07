@@ -18,5 +18,5 @@ Epipolar geometry allows us to calculate the position of a point in 3D space fro
 In addition, it allows us to limit the search for similarities to the epipolar stripe [1](https://es.qwe.wiki/wiki/Epipolar_geometry#Epipolar_line). In our case, since we have a pair of stereo cameras in canonical position, our epipolar stripe corresponds to the horizontal, that is, the point of the right image will be paired with a point of the left image of the same row.
 
 ## Approaches
-* [First approach - cv2.triangulatePoints](https://github.com/SusanaPineda/reconstruccion_3D/blob/master/reconstruccion_V1.md)
-* [Second approach - self.triangulate_points](https://github.com/SusanaPineda/reconstruccion_3D/blob/master/reconstruccion_V2.md)
+* [First approach - cv2.triangulatePoints](https://github.com/SusanaPineda/reconstruccion_3D/blob/master/reconstruccion_v1.md)
+* [Second approach - self.triangulate_points](https://github.com/SusanaPineda/reconstruccion_3D/blob/master/reconstruccion_v2.md)
