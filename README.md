@@ -20,3 +20,4 @@ In addition, it allows us to limit the search for similarities to the epipolar s
 ## Approaches
 * [First approach - cv2.triangulatePoints](https://github.com/SusanaPineda/reconstruccion_3D/blob/master/reconstruccion_v1.md)
 * [Second approach - self.triangulate_points](https://github.com/SusanaPineda/reconstruccion_3D/blob/master/reconstruccion_v2.md)
+* [Problem resolution](https://github.com/SusanaPineda/reconstruccion_3D/blob/master/reconstruccion_v3.md)
